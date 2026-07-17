@@ -1,0 +1,16 @@
+# Large raw inputs — not tracked; see README "Reproduce" for how to fetch/rebuild
+data/cnfdb/
+data/era5_rasters/
+data/processed/*.gpkg
+
+# Third-party / copyrighted material
+NAS Report 2026.pdf
+Rohde Figure.jpeg
+
+# Blog draft (published separately on The Climate Brink)
+blog_post_draft.md
+
+# System / caches
+.DS_Store
+__pycache__/
+*.pyc

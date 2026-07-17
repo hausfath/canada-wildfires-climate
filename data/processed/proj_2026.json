@@ -1,0 +1,16 @@
+{
+  "year": 2026,
+  "preliminary": true,
+  "ytd_tmean_c": 10.310335053522923,
+  "ytd_precip_mm": 160.07631111500064,
+  "tmean_c": 11.756066403954275,
+  "tmean_se": 0.41388396151596396,
+  "tmean_r2": 0.7844183546322748,
+  "precip_mm": 387.72941942789316,
+  "precip_se": 16.794825538911596,
+  "precip_r2": 0.3562264218084782,
+  "area_ha": 3173985.3718028497,
+  "area_ytd_ha": 2500000.0,
+  "area_ratio": 1.26959414872114,
+  "note": "Full May-Sep projected from YTD (May1-Jul9) via OLS on 1972-2025; area from annual/mid-July ratio."
+}

@@ -1,0 +1,1146 @@
+year,jurisdiction,Cause,area_ha
+1990,Alberta,Human activity,2393.79999999998
+1990,Alberta,Lightning,55482.5999999996
+1990,Alberta,Unspecified,1008.8
+1990,British Columbia,Human activity,40278.2999999995
+1990,British Columbia,Lightning,35503.4999999994
+1990,Manitoba,Human activity,5719.0
+1990,Manitoba,Lightning,10426.0
+1990,New Brunswick,Human activity,6188.10000000003
+1990,New Brunswick,Lightning,6.9
+1990,New Brunswick,Unspecified,23.4
+1990,Newfoundland and Labrador,Human activity,3825.3
+1990,Newfoundland and Labrador,Lightning,20777.0
+1990,Northwest Territories,Human activity,11.98
+1990,Northwest Territories,Lightning,104605.21
+1990,Northwest Territories,Unspecified,0.21
+1990,Nova Scotia,Human activity,1029.09
+1990,Nova Scotia,Lightning,0.2
+1990,Nova Scotia,Unspecified,38.87
+1990,Ontario,Human activity,8672.00000203901
+1990,Ontario,Lightning,174915.700002871
+1990,Ontario,Unspecified,25.50000011
+1990,Prince Edward Island,Human activity,82.0
+1990,Prince Edward Island,Lightning,0.0
+1990,Prince Edward Island,Unspecified,20.0
+1990,Quebec,Human activity,18666.5
+1990,Quebec,Lightning,64676.0999999999
+1990,Saskatchewan,Human activity,35848.2861437003
+1990,Saskatchewan,Lightning,180207.39210484
+1990,Yukon,Human activity,1412.99
+1990,Yukon,Lightning,181478.93
+1991,Alberta,Human activity,2460.99999999999
+1991,Alberta,Lightning,4118.49999999999
+1991,Alberta,Unspecified,135.0
+1991,British Columbia,Human activity,10923.6000000002
+1991,British Columbia,Lightning,14265.2000000001
+1991,Manitoba,Human activity,20668.1
+1991,Manitoba,Lightning,130317.6
+1991,New Brunswick,Human activity,3417.29999999999
+1991,New Brunswick,Lightning,56.7000000000001
+1991,New Brunswick,Unspecified,85.0
+1991,Newfoundland and Labrador,Human activity,6863.4
+1991,Newfoundland and Labrador,Lightning,49526.6
+1991,Northwest Territories,Human activity,46.97
+1991,Northwest Territories,Lightning,225401.42
+1991,Northwest Territories,Unspecified,18.03
+1991,Nova Scotia,Human activity,1712.09
+1991,Nova Scotia,Lightning,17.98
+1991,Nova Scotia,Unspecified,45.68
+1991,Ontario,Human activity,11090.200003762
+1991,Ontario,Lightning,307671.500002577
+1991,Ontario,Unspecified,49.400000132
+1991,Prince Edward Island,Human activity,40.0
+1991,Prince Edward Island,Lightning,0.0
+1991,Prince Edward Island,Unspecified,79.0
+1991,Quebec,Human activity,42503.0999999999
+1991,Quebec,Lightning,395828.3
+1991,Saskatchewan,Human activity,33955.1599999997
+1991,Saskatchewan,Lightning,164219.95
+1991,Yukon,Human activity,805.14
+1991,Yukon,Lightning,119465.68
+1992,Alberta,Human activity,2002.19999999999
+1992,Alberta,Lightning,1088.5
+1992,Alberta,Unspecified,470.6
+1992,British Columbia,Human activity,15559.9000000003
+1992,British Columbia,Lightning,14892.9000000004
+1992,Manitoba,Human activity,90957.6000000001
+1992,Manitoba,Lightning,342816.2
+1992,New Brunswick,Human activity,5330.9
+1992,New Brunswick,Lightning,32.2
+1992,New Brunswick,Unspecified,35.8
+1992,Newfoundland and Labrador,Human activity,1435.5
+1992,Newfoundland and Labrador,Lightning,374.2
+1992,Northwest Territories,Human activity,269.43
+1992,Northwest Territories,Lightning,34072.78
+1992,Northwest Territories,Unspecified,2607.24
+1992,Nova Scotia,Human activity,1111.11
+1992,Nova Scotia,Lightning,0.11
+1992,Nova Scotia,Unspecified,48.39
+1992,Ontario,Human activity,5372.600002254
+1992,Ontario,Lightning,170595.900000337
+1992,Ontario,Unspecified,25.900000039
+1992,Prince Edward Island,Human activity,41.0
+1992,Prince Edward Island,Lightning,0.0
+1992,Prince Edward Island,Unspecified,2.0
+1992,Quebec,Human activity,8127.30000000001
+1992,Quebec,Lightning,18984.2
+1992,Saskatchewan,Human activity,9635.18000000005
+1992,Saskatchewan,Lightning,88121.21
+1992,Yukon,Human activity,5998.23000000001
+1992,Yukon,Lightning,31816.84
+1993,Alberta,Human activity,1489.71
+1993,Alberta,Lightning,26170.3999999998
+1993,Alberta,Unspecified,32.1
+1993,British Columbia,Human activity,3400.19999999997
+1993,British Columbia,Lightning,1783.19999999998
+1993,Manitoba,Human activity,5117.4
+1993,Manitoba,Lightning,62156.9999999999
+1993,New Brunswick,Human activity,417.000000000001
+1993,New Brunswick,Lightning,323.2
+1993,New Brunswick,Unspecified,38.1
+1993,Newfoundland and Labrador,Human activity,55.4
+1993,Newfoundland and Labrador,Lightning,28425.0
+1993,Northwest Territories,Human activity,84.47
+1993,Northwest Territories,Lightning,856783.73
+1993,Northwest Territories,Prescribed burn,7400.0
+1993,Northwest Territories,Unspecified,17.63
+1993,Nova Scotia,Human activity,362.78
+1993,Nova Scotia,Lightning,2.8
+1993,Nova Scotia,Unspecified,2.33
+1993,Ontario,Human activity,9016.00000132801
+1993,Ontario,Lightning,95608.600000483
+1993,Ontario,Unspecified,40.200000013
+1993,Prince Edward Island,Human activity,78.0
+1993,Prince Edward Island,Lightning,0.0
+1993,Prince Edward Island,Unspecified,9.0
+1993,Quebec,Human activity,1062.2
+1993,Quebec,Lightning,127171.8
+1993,Saskatchewan,Human activity,132315.19
+1993,Saskatchewan,Lightning,475884.65
+1993,Yukon,Human activity,56.58
+1993,Yukon,Lightning,115047.73
+1994,Alberta,Human activity,2484.8
+1994,Alberta,Lightning,94198.5799999997
+1994,Alberta,Unspecified,43.35
+1994,British Columbia,Human activity,12017.1000000001
+1994,British Columbia,Lightning,17738.2000000004
+1994,Manitoba,Human activity,471729.6
+1994,Manitoba,Lightning,957056.099999997
+1994,New Brunswick,Human activity,752.000000000003
+1994,New Brunswick,Lightning,2.9
+1994,New Brunswick,Unspecified,98.4
+1994,Newfoundland and Labrador,Human activity,1309.7
+1994,Newfoundland and Labrador,Lightning,108964.5
+1994,Northwest Territories,Human activity,10126.82
+1994,Northwest Territories,Lightning,2999302.32
+1994,Northwest Territories,Prescribed burn,17882.0
+1994,Northwest Territories,Unspecified,3.41
+1994,Nova Scotia,Human activity,237.23
+1994,Nova Scotia,Unspecified,5.21
+1994,Ontario,Human activity,7455.000002144
+1994,Ontario,Lightning,76020.300000251
+1994,Ontario,Unspecified,129.100000063
+1994,Prince Edward Island,Human activity,16.0
+1994,Prince Edward Island,Lightning,0.0
+1994,Prince Edward Island,Unspecified,6.0
+1994,Quebec,Human activity,792.900000000001
+1994,Quebec,Lightning,115247.4
+1994,Saskatchewan,Human activity,3770.36000000001
+1994,Saskatchewan,Lightning,842249.09
+1994,Yukon,Human activity,29.37
+1994,Yukon,Lightning,421681.02
+1995,Alberta,Human activity,7887.02000000003
+1995,Alberta,Lightning,331045.59
+1995,Alberta,Unspecified,3046.75
+1995,British Columbia,Human activity,19714.3999999997
+1995,British Columbia,Lightning,28365.5999999998
+1995,Manitoba,Human activity,7366.50000000001
+1995,Manitoba,Lightning,881870.599999998
+1995,Manitoba,Unspecified,0.1
+1995,New Brunswick,Human activity,408.500000000001
+1995,New Brunswick,Lightning,45.9
+1995,New Brunswick,Unspecified,115.1
+1995,Newfoundland and Labrador,Human activity,301.1
+1995,Newfoundland and Labrador,Lightning,400.0
+1995,Northwest Territories,Human activity,111783.76
+1995,Northwest Territories,Lightning,2715574.67
+1995,Northwest Territories,Prescribed burn,15996.9
+1995,Northwest Territories,Unspecified,11.11
+1995,Nova Scotia,Human activity,369.95
+1995,Nova Scotia,Lightning,0.33
+1995,Nova Scotia,Unspecified,34.23
+1995,Ontario,Human activity,41933.500004117
+1995,Ontario,Lightning,570412.500001699
+1995,Ontario,Unspecified,216.900000194
+1995,Prince Edward Island,Human activity,16.0
+1995,Prince Edward Island,Lightning,0.0
+1995,Prince Edward Island,Unspecified,20.0
+1995,Quebec,Human activity,123078.5
+1995,Quebec,Lightning,604648.199999999
+1995,Saskatchewan,Human activity,63833.7100000001
+1995,Saskatchewan,Lightning,1584600.18
+1995,Saskatchewan,Unspecified,375.0
+1995,Yukon,Human activity,389.76
+1995,Yukon,Lightning,260989.98
+1995,Yukon,Unspecified,502.5
+1996,Alberta,Human activity,655.24
+1996,Alberta,Lightning,14917.46
+1996,Alberta,Unspecified,24.39
+1996,British Columbia,Human activity,6579.80000000006
+1996,British Columbia,Lightning,14089.3000000001
+1996,Manitoba,Human activity,2882.7
+1996,Manitoba,Lightning,122443.7
+1996,New Brunswick,Human activity,1027.5
+1996,New Brunswick,Lightning,908.1
+1996,New Brunswick,Unspecified,81.2
+1996,Newfoundland and Labrador,Human activity,3161.1
+1996,Newfoundland and Labrador,Lightning,78149.3
+1996,Northwest Territories,Human activity,84.66
+1996,Northwest Territories,Lightning,371460.06
+1996,Nova Scotia,Human activity,601.63
+1996,Nova Scotia,Lightning,2.27
+1996,Nova Scotia,Unspecified,35.32
+1996,Ontario,Human activity,1849.800001398
+1996,Ontario,Lightning,443461.200000965
+1996,Ontario,Unspecified,3691.099999989
+1996,Prince Edward Island,Human activity,0.0
+1996,Prince Edward Island,Lightning,0.0
+1996,Prince Edward Island,Unspecified,0.0
+1996,Quebec,Human activity,9575.90000000001
+1996,Quebec,Lightning,682013.699999999
+1996,Saskatchewan,Human activity,732.309999999999
+1996,Saskatchewan,Lightning,12254.68
+1996,Yukon,Human activity,15040.38
+1996,Yukon,Lightning,76026.7499999999
+1997,Alberta,Human activity,4383.07
+1997,Alberta,Lightning,521.27
+1997,Alberta,Unspecified,19.61
+1997,British Columbia,Human activity,2635.39999999999
+1997,British Columbia,Lightning,332.399999999999
+1997,Manitoba,Human activity,3648.7
+1997,Manitoba,Lightning,38150.4
+1997,New Brunswick,Human activity,219.8
+1997,New Brunswick,Lightning,17.1
+1997,New Brunswick,Unspecified,27.0
+1997,Newfoundland and Labrador,Human activity,8261.5
+1997,Newfoundland and Labrador,Lightning,283.2
+1997,Northwest Territories,Human activity,9.97
+1997,Northwest Territories,Lightning,126521.29
+1997,Northwest Territories,Unspecified,0.01
+1997,Nova Scotia,Human activity,501.67
+1997,Nova Scotia,Lightning,24.34
+1997,Nova Scotia,Unspecified,39.15
+1997,Ontario,Human activity,2113.30000190401
+1997,Ontario,Lightning,36224.300002795
+1997,Ontario,Unspecified,281.900000149
+1997,Prince Edward Island,Human activity,0.0
+1997,Prince Edward Island,Lightning,0.0
+1997,Prince Edward Island,Unspecified,107.0
+1997,Quebec,Human activity,4713.7
+1997,Quebec,Lightning,388365.5
+1997,Saskatchewan,Human activity,1669.69
+1997,Saskatchewan,Lightning,2207.22
+1997,Yukon,Human activity,78.8100000000002
+1997,Yukon,Lightning,11391.24
+1998,Alberta,Human activity,74977.0800000001
+1998,Alberta,Lightning,673574.169999996
+1998,Alberta,Unspecified,225.02
+1998,British Columbia,Human activity,6752.15600000002
+1998,British Columbia,Lightning,70015.1879999995
+1998,Manitoba,Human activity,4837.80000000001
+1998,Manitoba,Lightning,445734.299999999
+1998,New Brunswick,Human activity,274.9
+1998,New Brunswick,Lightning,4.1
+1998,New Brunswick,Unspecified,133.4
+1998,Newfoundland and Labrador,Human activity,1085.5
+1998,Newfoundland and Labrador,Lightning,39075.7
+1998,Northwest Territories,Human activity,79.72
+1998,Northwest Territories,Lightning,1458875.43
+1998,Northwest Territories,Unspecified,5.01
+1998,Nova Scotia,Human activity,306.669999999999
+1998,Nova Scotia,Lightning,12.13
+1998,Nova Scotia,Unspecified,77.93
+1998,Ontario,Human activity,4137.500001693
+1998,Ontario,Lightning,127542.100003112
+1998,Ontario,Unspecified,26492.800000021
+1998,Prince Edward Island,Human activity,76.0
+1998,Prince Edward Island,Lightning,0.0
+1998,Prince Edward Island,Unspecified,1.0
+1998,Quebec,Human activity,13329.3
+1998,Quebec,Lightning,404977.5
+1998,Saskatchewan,Human activity,158432.55
+1998,Saskatchewan,Lightning,886263.669999999
+1998,Yukon,Human activity,63760.7300000001
+1998,Yukon,Lightning,279911.67
+1998,Yukon,Unspecified,59.0
+1999,Alberta,Human activity,6198.16000000001
+1999,Alberta,Lightning,183739.9
+1999,Alberta,Prescribed burn,0.0
+1999,Alberta,Unspecified,57.21
+1999,British Columbia,Human activity,4834.00000000001
+1999,British Columbia,Lightning,6721.41000000007
+1999,Manitoba,Human activity,53387.8
+1999,Manitoba,Lightning,57065.6999999999
+1999,New Brunswick,Human activity,831.000000000002
+1999,New Brunswick,Lightning,545.700000000002
+1999,New Brunswick,Unspecified,76.1
+1999,Newfoundland and Labrador,Human activity,11262.4
+1999,Newfoundland and Labrador,Lightning,27777.8
+1999,Northwest Territories,Human activity,31.65
+1999,Northwest Territories,Lightning,549844.38
+1999,Northwest Territories,Prescribed burn,11158.0
+1999,Northwest Territories,Unspecified,0.61
+1999,Nova Scotia,Human activity,1788.38999999999
+1999,Nova Scotia,Lightning,16.36
+1999,Nova Scotia,Unspecified,18.69
+1999,Ontario,Human activity,251129.600000958
+1999,Ontario,Lightning,76924.800000649
+1999,Ontario,Unspecified,272.400000151
+1999,Prince Edward Island,Human activity,73.0
+1999,Prince Edward Island,Lightning,
+1999,Prince Edward Island,Unspecified,4.0
+1999,Quebec,Human activity,3927.79999999999
+1999,Quebec,Lightning,93819.4000000001
+1999,Saskatchewan,Human activity,9135.45
+1999,Saskatchewan,Lightning,171684.79
+1999,Yukon,Human activity,3280.24
+1999,Yukon,Lightning,191536.24
+2000,Alberta,Human activity,8657.97000000002
+2000,Alberta,Lightning,16574.85
+2000,Alberta,Unspecified,18.76
+2000,British Columbia,Human activity,11399.2540000001
+2000,British Columbia,Lightning,6409.4580000001
+2000,Manitoba,Human activity,1616.0
+2000,Manitoba,Unspecified,111699.272
+2000,New Brunswick,Human activity,371.98
+2000,New Brunswick,Lightning,70.7999999999999
+2000,New Brunswick,Unspecified,50.3
+2000,Newfoundland and Labrador,Human activity,232.0
+2000,Newfoundland and Labrador,Lightning,103304.167
+2000,Northwest Territories,Human activity,20.83
+2000,Northwest Territories,Lightning,177796.14
+2000,Northwest Territories,Prescribed burn,17.8
+2000,Northwest Territories,Unspecified,1.02
+2000,Nova Scotia,Human activity,300.87
+2000,Nova Scotia,Lightning,1.99
+2000,Nova Scotia,Unspecified,185.31
+2000,Ontario,Human activity,1420.500002974
+2000,Ontario,Lightning,5293.200000484
+2000,Ontario,Unspecified,64.70000003
+2000,Prince Edward Island,Human activity,
+2000,Prince Edward Island,Lightning,
+2000,Prince Edward Island,Unspecified,
+2000,Quebec,Human activity,672.520000000001
+2000,Quebec,Lightning,38535.9
+2000,Saskatchewan,Human activity,10795.03
+2000,Saskatchewan,Lightning,130628.08
+2000,Yukon,Human activity,10.33
+2000,Yukon,Lightning,7642.53
+2000,Yukon,Unspecified,363.0
+2001,Alberta,Human activity,139800.316
+2001,Alberta,Lightning,27108.301
+2001,Alberta,Unspecified,78.492
+2001,British Columbia,Human activity,5191.51900000002
+2001,British Columbia,Lightning,8981.69000000003
+2001,Manitoba,Human activity,499.3
+2001,Manitoba,Unspecified,80521.8290000005
+2001,New Brunswick,Human activity,486.503000000001
+2001,New Brunswick,Lightning,25.3
+2001,New Brunswick,Unspecified,264.1
+2001,Newfoundland and Labrador,Human activity,324.7
+2001,Newfoundland and Labrador,Lightning,640.988
+2001,Northwest Territories,Human activity,5.23
+2001,Northwest Territories,Lightning,116756.49
+2001,Nova Scotia,Human activity,471.302999999999
+2001,Nova Scotia,Lightning,8.15
+2001,Nova Scotia,Unspecified,50.06
+2001,Ontario,Human activity,1520.100000282
+2001,Ontario,Lightning,9256.000000927
+2001,Ontario,Unspecified,89.700000008
+2001,Prince Edward Island,Human activity,13.0
+2001,Prince Edward Island,Lightning,0.0
+2001,Prince Edward Island,Unspecified,16.0
+2001,Quebec,Human activity,5901.30000000002
+2001,Quebec,Lightning,27190.9
+2001,Saskatchewan,Human activity,39408.7599999999
+2001,Saskatchewan,Lightning,165724.96
+2001,Yukon,Human activity,6.82
+2001,Yukon,Lightning,17327.66
+2002,Alberta,Human activity,248041.000000002
+2002,Alberta,Lightning,252498.030000003
+2002,Alberta,Prescribed burn,7.0
+2002,Alberta,Unspecified,8.39
+2002,British Columbia,Human activity,4366.66300000001
+2002,British Columbia,Lightning,4219.49700000002
+2002,British Columbia,Unspecified,0.4
+2002,Manitoba,Human activity,1535.0
+2002,Manitoba,Unspecified,95404.7900000003
+2002,New Brunswick,Human activity,255.5
+2002,New Brunswick,Lightning,33.0
+2002,New Brunswick,Unspecified,37.0
+2002,Newfoundland and Labrador,Human activity,385.1
+2002,Newfoundland and Labrador,Lightning,14524.546
+2002,Northwest Territories,Human activity,18.04
+2002,Northwest Territories,Lightning,27067.63
+2002,Northwest Territories,Unspecified,3.5
+2002,Nova Scotia,Human activity,191.35
+2002,Nova Scotia,Lightning,9.72
+2002,Nova Scotia,Unspecified,11.49
+2002,Ontario,Human activity,2351.700001148
+2002,Ontario,Lightning,178041.900001898
+2002,Ontario,Unspecified,1851.09999993
+2002,Prince Edward Island,Human activity,132.0
+2002,Prince Edward Island,Lightning,0.0
+2002,Prince Edward Island,Unspecified,0.0
+2002,Quebec,Human activity,5943.30999999999
+2002,Quebec,Lightning,1007806.61
+2002,Saskatchewan,Human activity,101681.75
+2002,Saskatchewan,Lightning,780974.570000001
+2002,Yukon,Human activity,22.76
+2002,Yukon,Lightning,36181.45
+2003,Alberta,Human activity,39243.05
+2003,Alberta,Lightning,145144.36
+2003,Alberta,Unspecified,19958.31
+2003,British Columbia,Human activity,81752.3830000001
+2003,British Columbia,Lightning,201650.429
+2003,Manitoba,Human activity,3203.0
+2003,Manitoba,Unspecified,938176.427000005
+2003,New Brunswick,Human activity,214.9
+2003,New Brunswick,Lightning,4.3
+2003,New Brunswick,Unspecified,20.2
+2003,Newfoundland and Labrador,Human activity,683.0
+2003,Newfoundland and Labrador,Lightning,27028.13
+2003,Northwest Territories,Human activity,9.3
+2003,Northwest Territories,Lightning,127812.1
+2003,Nova Scotia,Human activity,1235.99
+2003,Nova Scotia,Lightning,0.13
+2003,Nova Scotia,Unspecified,20.64
+2003,Ontario,Human activity,8397.600001606
+2003,Ontario,Lightning,309984.900000547
+2003,Ontario,Unspecified,734.099999835
+2003,Prince Edward Island,Human activity,11.0
+2003,Prince Edward Island,Lightning,0.0
+2003,Prince Edward Island,Unspecified,1.0
+2003,Quebec,Human activity,9783.10100000004
+2003,Quebec,Lightning,78462.3
+2003,Saskatchewan,Human activity,12883.93
+2003,Saskatchewan,Lightning,113205.32
+2003,Yukon,Human activity,2940.47
+2003,Yukon,Lightning,45844.86
+2004,Alberta,Human activity,6648.9900000001
+2004,Alberta,Lightning,425626.130000002
+2004,Alberta,Prescribed burn,0.2
+2004,Alberta,Reburn,41.01
+2004,Alberta,Unspecified,9.26
+2004,British Columbia,Human activity,2175.457
+2004,British Columbia,Lightning,218120.909999997
+2004,British Columbia,Unspecified,0.1
+2004,Manitoba,Human activity,1062.0
+2004,Manitoba,Lightning,18074.1
+2004,Manitoba,Unspecified,8384.3
+2004,New Brunswick,Human activity,388.8
+2004,New Brunswick,Lightning,4.6
+2004,New Brunswick,Unspecified,68.4
+2004,Newfoundland and Labrador,Human activity,1224.532
+2004,Newfoundland and Labrador,Lightning,931.586
+2004,Northwest Territories,Human activity,7637.95
+2004,Northwest Territories,Lightning,501430.38
+2004,Northwest Territories,Unspecified,8287.7
+2004,Nova Scotia,Human activity,287.519999999999
+2004,Nova Scotia,Lightning,0.45
+2004,Nova Scotia,Unspecified,1.87
+2004,Ontario,Human activity,1587.799999129
+2004,Ontario,Lightning,120.20000044
+2004,Ontario,Unspecified,9.599999983
+2004,Prince Edward Island,Human activity,13.0
+2004,Prince Edward Island,Lightning,0.0
+2004,Prince Edward Island,Unspecified,2.0
+2004,Quebec,Human activity,815.600600000001
+2004,Quebec,Lightning,2242.1
+2004,Saskatchewan,Human activity,7407.16
+2004,Saskatchewan,Lightning,250726.45
+2004,Saskatchewan,Unspecified,5.0
+2004,Yukon,Human activity,11631.47
+2004,Yukon,Lightning,1708032.62
+2005,Alberta,Human activity,12715.0510000002
+2005,Alberta,Lightning,79604.3800000002
+2005,Alberta,Prescribed burn,3.91
+2005,Alberta,Reburn,0.12
+2005,Alberta,Unspecified,45.49
+2005,British Columbia,Human activity,9735.40500000002
+2005,British Columbia,Lightning,27097.5709999997
+2005,Manitoba,Human activity,6189.3
+2005,Manitoba,Lightning,69102.4000000001
+2005,New Brunswick,Human activity,459.4
+2005,New Brunswick,Lightning,9.9
+2005,New Brunswick,Unspecified,33.0
+2005,Newfoundland and Labrador,Human activity,187.2
+2005,Newfoundland and Labrador,Lightning,18061.319
+2005,Northwest Territories,Human activity,9.11
+2005,Northwest Territories,Lightning,216865.2
+2005,Northwest Territories,Unspecified,1258.31
+2005,Nova Scotia,Human activity,472.0
+2005,Nova Scotia,Lightning,0.0
+2005,Nova Scotia,Unspecified,23.0
+2005,Ontario,Human activity,3167.900004724
+2005,Ontario,Lightning,39138.9499999
+2005,Ontario,Unspecified,44.000000052
+2005,Prince Edward Island,Human activity,44.0
+2005,Prince Edward Island,Lightning,0.0
+2005,Prince Edward Island,Unspecified,6.0
+2005,Quebec,Human activity,33369.5999999999
+2005,Quebec,Lightning,766770.699999997
+2005,Saskatchewan,Human activity,9333.44000000001
+2005,Saskatchewan,Lightning,205584.27
+2005,Saskatchewan,Unspecified,0.7
+2005,Yukon,Human activity,1.51
+2005,Yukon,Lightning,187436.83
+2006,Alberta,Human activity,23935.0999999994
+2006,Alberta,Lightning,106317.419999999
+2006,Alberta,Prescribed burn,1.79
+2006,Alberta,Reburn,33.26
+2006,Alberta,Unspecified,6024.26
+2006,British Columbia,Human activity,9714.72300000005
+2006,British Columbia,Lightning,129709.729000004
+2006,Manitoba,Human activity,8113.40000000003
+2006,Manitoba,Lightning,159437.000000001
+2006,New Brunswick,Human activity,574.4
+2006,New Brunswick,Lightning,8.69999999999999
+2006,New Brunswick,Unspecified,41.5
+2006,Newfoundland and Labrador,Human activity,153.7
+2006,Newfoundland and Labrador,Lightning,3311.868
+2006,Northwest Territories,Human activity,68.68
+2006,Northwest Territories,Lightning,61312.35
+2006,Northwest Territories,Unspecified,16.0
+2006,Nova Scotia,Human activity,1562.01
+2006,Nova Scotia,Unspecified,484.0
+2006,Ontario,Human activity,2113.199998213
+2006,Ontario,Lightning,145302.600007108
+2006,Ontario,Unspecified,2572.500000091
+2006,Prince Edward Island,Human activity,48.0
+2006,Prince Edward Island,Lightning,0.0
+2006,Prince Edward Island,Unspecified,3.0
+2006,Quebec,Human activity,65212.0999999999
+2006,Quebec,Lightning,71140.5000000001
+2006,Saskatchewan,Human activity,182545.97
+2006,Saskatchewan,Lightning,1025561.09
+2006,Saskatchewan,Unspecified,327.5
+2006,Yukon,Human activity,4.04
+2006,Yukon,Lightning,95029.3
+2007,Alberta,Human activity,1765.57999999999
+2007,Alberta,Lightning,324225.279999999
+2007,Alberta,Reburn,1.2
+2007,Alberta,Unspecified,2.25
+2007,British Columbia,Human activity,12743.0780000001
+2007,British Columbia,Lightning,17243.276
+2007,British Columbia,Unspecified,0.5
+2007,Manitoba,Human activity,5512.9
+2007,Manitoba,Lightning,331367.899999999
+2007,New Brunswick,Human activity,384.4
+2007,New Brunswick,Lightning,25.2
+2007,New Brunswick,Unspecified,183.4
+2007,Newfoundland and Labrador,Human activity,324.146
+2007,Newfoundland and Labrador,Lightning,11026.484
+2007,Newfoundland and Labrador,Unspecified,0.293
+2007,Northwest Territories,Human activity,22183.3
+2007,Northwest Territories,Lightning,422923.87
+2007,Northwest Territories,Unspecified,22.21
+2007,Nova Scotia,Human activity,510.0
+2007,Nova Scotia,Lightning,0.0
+2007,Nova Scotia,Unspecified,181.0
+2007,Ontario,Human activity,33191.399999862
+2007,Ontario,Lightning,6747.100000918
+2007,Ontario,Prescribed burn,25.0
+2007,Ontario,Unspecified,713.899999999
+2007,Prince Edward Island,Human activity,0.02
+2007,Prince Edward Island,Human activity,18.0
+2007,Prince Edward Island,Lightning,0.0
+2007,Prince Edward Island,Unspecified,1.0
+2007,Quebec,Human activity,120758.4
+2007,Quebec,Lightning,221956.9
+2007,Saskatchewan,Human activity,4767.66000000001
+2007,Saskatchewan,Lightning,208304.56
+2007,Yukon,Human activity,13989.01
+2007,Yukon,Lightning,24368.75
+2008,Alberta,Human activity,10672.58
+2008,Alberta,Lightning,22869.1699999996
+2008,Alberta,Prescribed burn,2914.11
+2008,Alberta,Reburn,8.42
+2008,Alberta,Unspecified,70.96
+2008,British Columbia,Human activity,8649.37600000004
+2008,British Columbia,Lightning,4801.45400000002
+2008,British Columbia,Prescribed burn,1813.0
+2008,British Columbia,Unspecified,37.1
+2008,Manitoba,Human activity,73198.2000000001
+2008,Manitoba,Lightning,77474.4000000001
+2008,Manitoba,Prescribed burn,4250.0
+2008,New Brunswick,Human activity,125.7
+2008,New Brunswick,Lightning,6.8
+2008,New Brunswick,Unspecified,10.0
+2008,Newfoundland and Labrador,Human activity,98.4
+2008,Newfoundland and Labrador,Lightning,1.6
+2008,Newfoundland and Labrador,Prescribed burn,29.0
+2008,Northwest Territories,Human activity,19.78
+2008,Northwest Territories,Lightning,308546.47
+2008,Northwest Territories,Unspecified,222.5
+2008,Nova Scotia,Human activity,2638.01
+2008,Nova Scotia,Lightning,0.0
+2008,Nova Scotia,Unspecified,62.0
+2008,Ontario,Human activity,106.600000226
+2008,Ontario,Lightning,1193.700000044
+2008,Ontario,Prescribed burn,100.0
+2008,Ontario,Unspecified,16.701000252
+2008,Prince Edward Island,Human activity,0.5
+2008,Prince Edward Island,Human activity,3.0
+2008,Prince Edward Island,Lightning,0.0
+2008,Prince Edward Island,Unspecified,0.5
+2008,Prince Edward Island,Unspecified,0.0
+2008,Quebec,Human activity,148.2
+2008,Quebec,Lightning,1333.4
+2008,Quebec,Prescribed burn,115.0
+2008,Saskatchewan,Human activity,31062.48
+2008,Saskatchewan,Lightning,1099181.81
+2008,Saskatchewan,Prescribed burn,76.0
+2008,Yukon,Human activity,11.83
+2008,Yukon,Lightning,13056.05
+2009,Alberta,Human activity,22239.1800000001
+2009,Alberta,Lightning,67111.0600000001
+2009,Alberta,Prescribed burn,5170.99
+2009,Alberta,Reburn,5.97
+2009,Alberta,Unspecified,31.27
+2009,British Columbia,Human activity,26716.7279999998
+2009,British Columbia,Lightning,220703.056
+2009,British Columbia,Prescribed burn,100.0
+2009,Manitoba,Human activity,2230.2
+2009,Manitoba,Lightning,641.8
+2009,Manitoba,Prescribed burn,420.0
+2009,New Brunswick,Human activity,233.7
+2009,New Brunswick,Lightning,0.2
+2009,New Brunswick,Unspecified,20.0
+2009,Newfoundland and Labrador,Human activity,392.584
+2009,Newfoundland and Labrador,Lightning,16263.609
+2009,Newfoundland and Labrador,Prescribed burn,15.0
+2009,Northwest Territories,Human activity,22.6
+2009,Northwest Territories,Lightning,10314.35
+2009,Northwest Territories,Unspecified,0.1
+2009,Nova Scotia,Human activity,858.0
+2009,Nova Scotia,Prescribed burn,33.3
+2009,Nova Scotia,Unspecified,25.0
+2009,Ontario,Human activity,375.400000202001
+2009,Ontario,Lightning,20308.100000402
+2009,Ontario,Prescribed burn,1.0
+2009,Ontario,Unspecified,9.282000019
+2009,Prince Edward Island,Human activity,3.0
+2009,Prince Edward Island,Lightning,0.0
+2009,Prince Edward Island,Unspecified,0.0
+2009,Quebec,Human activity,2246.3
+2009,Quebec,Lightning,91725.4
+2009,Quebec,Prescribed burn,28.8
+2009,Saskatchewan,Human activity,4921.63000000001
+2009,Saskatchewan,Lightning,37655.34
+2009,Saskatchewan,Prescribed burn,1231.0
+2009,Saskatchewan,Unspecified,0.55
+2009,Yukon,Human activity,3.23
+2009,Yukon,Lightning,230509.12
+2010,Alberta,Human activity,2271.29000000008
+2010,Alberta,Lightning,84448.4400000002
+2010,Alberta,Prescribed burn,11.0
+2010,Alberta,Reburn,138.82
+2010,Alberta,Unspecified,83.14
+2010,British Columbia,Human activity,10436.573
+2010,British Columbia,Lightning,326732.176000005
+2010,British Columbia,Prescribed burn,12.0
+2010,British Columbia,Unspecified,0.1
+2010,Manitoba,Human activity,22396.6
+2010,Manitoba,Lightning,165098.7
+2010,Manitoba,Prescribed burn,1765.0
+2010,New Brunswick,Human activity,130.5
+2010,New Brunswick,Lightning,10.8
+2010,New Brunswick,Unspecified,15.0
+2010,Newfoundland and Labrador,Human activity,38.6
+2010,Newfoundland and Labrador,Lightning,956.649
+2010,Northwest Territories,Human activity,152.56
+2010,Northwest Territories,Lightning,350649.38
+2010,Northwest Territories,Unspecified,125.05
+2010,Nova Scotia,Human activity,0.3
+2010,Nova Scotia,Prescribed burn,2.3
+2010,Nova Scotia,Unspecified,435.74
+2010,Ontario,Human activity,2609.3999999
+2010,Ontario,Lightning,10108.899999385
+2010,Ontario,Prescribed burn,7.0
+2010,Ontario,Unspecified,2110.899999535
+2010,Prince Edward Island,Human activity,5.0
+2010,Prince Edward Island,Lightning,0.0
+2010,Prince Edward Island,Unspecified,0.0
+2010,Quebec,Human activity,36000.0999999999
+2010,Quebec,Lightning,278883.9
+2010,Quebec,Prescribed burn,30.0
+2010,Saskatchewan,Human activity,208262.31
+2010,Saskatchewan,Lightning,1526789.1104
+2010,Saskatchewan,Prescribed burn,284.7
+2010,Yukon,Human activity,5261.58000000001
+2010,Yukon,Lightning,141701.69
+2011,Alberta,Human activity,142949.629999998
+2011,Alberta,Lightning,97628.1499999998
+2011,Alberta,Prescribed burn,1423.2
+2011,Alberta,Reburn,0.16
+2011,Alberta,Unspecified,650231.14
+2011,British Columbia,Human activity,1183.301
+2011,British Columbia,Lightning,11379.726
+2011,British Columbia,Prescribed burn,585.0
+2011,British Columbia,Unspecified,5.0
+2011,Manitoba,Human activity,26229.3
+2011,Manitoba,Lightning,100615.2
+2011,Manitoba,Prescribed burn,1967.0
+2011,Manitoba,Unspecified,0.25
+2011,New Brunswick,Human activity,33.4
+2011,New Brunswick,Lightning,2.2
+2011,New Brunswick,Unspecified,1.9
+2011,Newfoundland and Labrador,Human activity,38.5
+2011,Newfoundland and Labrador,Unspecified,387.21487
+2011,Northwest Territories,Human activity,151.17
+2011,Northwest Territories,Lightning,329462.2675
+2011,Northwest Territories,Unspecified,71.3871
+2011,Nova Scotia,Unspecified,150.27
+2011,Ontario,Human activity,1851.500000761
+2011,Ontario,Lightning,632086.600002971
+2011,Ontario,Prescribed burn,600.4
+2011,Ontario,Unspecified,1437.600000051
+2011,Prince Edward Island,Human activity,5.0
+2011,Prince Edward Island,Lightning,0.0
+2011,Prince Edward Island,Unspecified,1.0
+2011,Quebec,Human activity,2272.701
+2011,Quebec,Lightning,10124.8
+2011,Quebec,Prescribed burn,1.2
+2011,Saskatchewan,Human activity,55505.6999999999
+2011,Saskatchewan,Lightning,288341.69
+2011,Saskatchewan,Prescribed burn,240.0
+2011,Yukon,Human activity,119.88
+2011,Yukon,Lightning,40344.45
+2012,Alberta,Human activity,7553.32100000012
+2012,Alberta,Lightning,644114.830000001
+2012,Alberta,Prescribed burn,2.0
+2012,Alberta,Unspecified,414.3
+2012,British Columbia,Human activity,5606.90700000001
+2012,British Columbia,Lightning,97611.8640000027
+2012,Manitoba,Human activity,21027.0
+2012,Manitoba,Lightning,195861.4
+2012,Manitoba,Unspecified,620.0
+2012,New Brunswick,Human activity,287.9
+2012,New Brunswick,Lightning,0.8
+2012,New Brunswick,Unspecified,72.4
+2012,Newfoundland and Labrador,Human activity,1671.9
+2012,Newfoundland and Labrador,Lightning,109.1
+2012,Newfoundland and Labrador,Unspecified,27501.68559
+2012,Northwest Territories,Human activity,597.3
+2012,Northwest Territories,Lightning,301322.84
+2012,Northwest Territories,Unspecified,2615.22
+2012,Nova Scotia,Lightning,2.5
+2012,Nova Scotia,Unspecified,361.81
+2012,Ontario,Human activity,43439.050099492
+2012,Ontario,Lightning,107923.300002834
+2012,Ontario,Prescribed burn,1444.2
+2012,Ontario,Unspecified,236.199999841
+2012,Prince Edward Island,Human activity,11.0
+2012,Prince Edward Island,Lightning,0.0
+2012,Prince Edward Island,Unspecified,1.0
+2012,Quebec,Human activity,24781.7009999999
+2012,Quebec,Lightning,39261.3999999999
+2012,Quebec,Prescribed burn,1.1
+2012,Saskatchewan,Human activity,6861.42
+2012,Saskatchewan,Lightning,220913.8
+2012,Saskatchewan,Prescribed burn,1180.0
+2012,Saskatchewan,Unspecified,1.1
+2012,Yukon,Human activity,6.97
+2012,Yukon,Lightning,58273.73
+2013,Alberta,Human activity,2101.11000000006
+2013,Alberta,Lightning,48634.4399999998
+2013,Alberta,Prescribed burn,166.8
+2013,Alberta,Unspecified,4830.4
+2013,British Columbia,Human activity,4954.33720000001
+2013,British Columbia,Lightning,13882.0030000001
+2013,British Columbia,Unspecified,0.0
+2013,Manitoba,Human activity,895.6
+2013,Manitoba,Lightning,1114519.2
+2013,Manitoba,Prescribed burn,42.0
+2013,New Brunswick,Human activity,845.500000000002
+2013,New Brunswick,Lightning,0.2
+2013,New Brunswick,Unspecified,34.4
+2013,Newfoundland and Labrador,Human activity,27668.735
+2013,Newfoundland and Labrador,Lightning,2474.861
+2013,Northwest Territories,Human activity,1188.4
+2013,Northwest Territories,Lightning,553870.82
+2013,Nova Scotia,Human activity,295.217
+2013,Nova Scotia,Lightning,0.1
+2013,Nova Scotia,Prescribed burn,6.06
+2013,Nova Scotia,Unspecified,6.03
+2013,Ontario,Human activity,823.700001084002
+2013,Ontario,Lightning,50216.399999446
+2013,Ontario,Prescribed burn,0.5
+2013,Ontario,Unspecified,49.899998517
+2013,Prince Edward Island,Human activity,0.0
+2013,Prince Edward Island,Human activity,76.0
+2013,Prince Edward Island,Lightning,0.0
+2013,Prince Edward Island,Unspecified,5.0
+2013,Quebec,Human activity,17130.8299999999
+2013,Quebec,Lightning,1855711.5
+2013,Saskatchewan,Human activity,12218.22
+2013,Saskatchewan,Lightning,356634.5
+2013,Saskatchewan,Prescribed burn,905.8
+2013,Saskatchewan,Unspecified,0.01
+2013,Yukon,Human activity,6.45
+2013,Yukon,Lightning,198307.34
+2014,Alberta,Human activity,1203.84099999999
+2014,Alberta,Lightning,286625.28
+2014,Alberta,Prescribed burn,201.0
+2014,Alberta,Unspecified,19.12
+2014,British Columbia,Human activity,8085.20510000002
+2014,British Columbia,Lightning,360841.332000005
+2014,British Columbia,Prescribed burn,1.0
+2014,British Columbia,Unspecified,0.45
+2014,Manitoba,Human activity,1171.5
+2014,Manitoba,Lightning,37936.4
+2014,Manitoba,Prescribed burn,100.0
+2014,New Brunswick,Human activity,101.3
+2014,New Brunswick,Lightning,0.5
+2014,New Brunswick,Unspecified,11.3
+2014,Newfoundland and Labrador,Prescribed burn,4.36
+2014,Newfoundland and Labrador,Unspecified,8832.0
+2014,Northwest Territories,Human activity,10616.38
+2014,Northwest Territories,Lightning,3410696.14
+2014,Nova Scotia,Human activity,536.6107
+2014,Nova Scotia,Unspecified,27.86
+2014,Ontario,Human activity,241.900000877
+2014,Ontario,Lightning,5143.699999654
+2014,Ontario,Prescribed burn,985.0
+2014,Ontario,Unspecified,0.900000011
+2014,Prince Edward Island,Human activity,3.0
+2014,Prince Edward Island,Lightning,
+2014,Prince Edward Island,Unspecified,
+2014,Quebec,Human activity,8416.50100000001
+2014,Quebec,Lightning,55304.2
+2014,Quebec,Prescribed burn,182.0
+2014,Saskatchewan,Human activity,15529.66
+2014,Saskatchewan,Lightning,327253.82
+2014,Saskatchewan,Prescribed burn,2425.0
+2014,Yukon,Human activity,23.581
+2014,Yukon,Lightning,3137.013
+2015,Alberta,Human activity,38618.0490000007
+2015,Alberta,Lightning,801712.270000001
+2015,Alberta,Prescribed burn,2972.4
+2015,Alberta,Unspecified,570.39
+2015,British Columbia,Human activity,57127.0059999997
+2015,British Columbia,Lightning,223740.765999998
+2015,British Columbia,Prescribed burn,90.0
+2015,Manitoba,Human activity,6778.6
+2015,Manitoba,Lightning,61352.9999999999
+2015,Manitoba,Prescribed burn,1055.0
+2015,Manitoba,Unspecified,6.1
+2015,New Brunswick,Human activity,197.9
+2015,New Brunswick,Lightning,45.6
+2015,New Brunswick,Unspecified,19.0
+2015,Newfoundland and Labrador,Human activity,9.9
+2015,Newfoundland and Labrador,Lightning,3579.9
+2015,Newfoundland and Labrador,Prescribed burn,81.5
+2015,Northwest Territories,Human activity,4.05
+2015,Northwest Territories,Lightning,722102.59
+2015,Nova Scotia,Human activity,511.559900000001
+2015,Nova Scotia,Prescribed burn,33.8
+2015,Nova Scotia,Unspecified,5.29
+2015,Ontario,Human activity,1243.500101705
+2015,Ontario,Lightning,38063.8000008532
+2015,Ontario,Prescribed burn,3421.0
+2015,Ontario,Unspecified,5.600000104
+2015,Prince Edward Island,Human activity,3.0
+2015,Prince Edward Island,Lightning,
+2015,Prince Edward Island,Unspecified,
+2015,Quebec,Human activity,1460.70009999999
+2015,Quebec,Lightning,3919.3
+2015,Quebec,Prescribed burn,778.2
+2015,Saskatchewan,Human activity,41757.38082
+2015,Saskatchewan,Lightning,1725597.368517
+2015,Saskatchewan,Prescribed burn,1673.2
+2015,Yukon,Human activity,41.9
+2015,Yukon,Lightning,169800.71
+2016,Alberta,Human activity,1134.33019999999
+2016,Alberta,Lightning,27284.3699999998
+2016,Alberta,Prescribed burn,838.1
+2016,Alberta,Unspecified,485908.49
+2016,British Columbia,Human activity,93320.6580000014
+2016,British Columbia,Lightning,7057.45300000003
+2016,British Columbia,Prescribed burn,68.7
+2016,Manitoba,Human activity,6700.62
+2016,Manitoba,Lightning,31706.9
+2016,Manitoba,Prescribed burn,750.0
+2016,Manitoba,Unspecified,0.01
+2016,New Brunswick,Human activity,199.2
+2016,New Brunswick,Lightning,21.7
+2016,New Brunswick,Unspecified,43.9
+2016,Newfoundland and Labrador,Human activity,0.4
+2016,Newfoundland and Labrador,Lightning,10602.9
+2016,Newfoundland and Labrador,Prescribed burn,134.0
+2016,Northwest Territories,Human activity,7819.08
+2016,Northwest Territories,Lightning,247704.78
+2016,Nova Scotia,Human activity,774.987
+2016,Nova Scotia,Lightning,17.551
+2016,Nova Scotia,Prescribed burn,4.5
+2016,Nova Scotia,Unspecified,10.186
+2016,Ontario,Human activity,6115.950100405
+2016,Ontario,Lightning,76921.700101339
+2016,Ontario,Prescribed burn,3096.3538
+2016,Ontario,Unspecified,76.301099985
+2016,Prince Edward Island,Human activity,33.0
+2016,Prince Edward Island,Lightning,0.0
+2016,Prince Edward Island,Unspecified,0.0
+2016,Quebec,Human activity,334.415000000001
+2016,Quebec,Lightning,33036.4
+2016,Quebec,Prescribed burn,562.5
+2016,Saskatchewan,Human activity,2773.52
+2016,Saskatchewan,Lightning,251990.9
+2016,Saskatchewan,Prescribed burn,1025.0
+2016,Saskatchewan,Unspecified,0.0
+2016,Yukon,Human activity,2.28
+2016,Yukon,Lightning,21535.12
+2017,Alberta,Human activity,6834.10351000011
+2017,Alberta,Lightning,116704.42
+2017,Alberta,Prescribed burn,866.6
+2017,Alberta,Unspecified,25364.3401
+2017,British Columbia,Human activity,225058.145099999
+2017,British Columbia,Lightning,1004755.7094
+2017,British Columbia,Prescribed burn,45.0
+2017,British Columbia,Unspecified,1.328
+2017,Manitoba,Human activity,1368.053
+2017,Manitoba,Lightning,223055.600000001
+2017,New Brunswick,Human activity,530.300000000001
+2017,New Brunswick,Lightning,19.7
+2017,New Brunswick,Unspecified,17.9
+2017,Newfoundland and Labrador,Human activity,62.301
+2017,Newfoundland and Labrador,Lightning,637.5
+2017,Newfoundland and Labrador,Unspecified,0.15
+2017,Northwest Territories,Human activity,11.14
+2017,Northwest Territories,Lightning,1033065.67
+2017,Nova Scotia,Human activity,572.78
+2017,Nova Scotia,Prescribed burn,0.3
+2017,Ontario,Human activity,87.4000008419998
+2017,Ontario,Lightning,112232.999997352
+2017,Ontario,Prescribed burn,445.356
+2017,Ontario,Unspecified,164.199999631
+2017,Prince Edward Island,Human activity,0.0
+2017,Prince Edward Island,Lightning,0.0
+2017,Prince Edward Island,Unspecified,7.0
+2017,Quebec,Human activity,1692.711
+2017,Quebec,Lightning,36699.2
+2017,Quebec,Prescribed burn,52.8
+2017,Saskatchewan,Human activity,451.204000000001
+2017,Saskatchewan,Lightning,398566.7
+2017,Saskatchewan,Prescribed burn,779.5
+2017,Yukon,Human activity,18.7
+2017,Yukon,Lightning,399261.45
+2018,Alberta,Human activity,1891.82309999999
+2018,Alberta,Lightning,69845.4400000001
+2018,Alberta,Prescribed burn,339.0
+2018,Alberta,Unspecified,12941.242
+2018,British Columbia,Human activity,121607.612000001
+2018,British Columbia,Lightning,1236348.79699999
+2018,British Columbia,Prescribed burn,15.0
+2018,British Columbia,Unspecified,2963.863
+2018,Manitoba,Human activity,78904.0200000001
+2018,Manitoba,Lightning,155520.800000001
+2018,Manitoba,Prescribed burn,2.5
+2018,Manitoba,Unspecified,50.0
+2018,New Brunswick,Human activity,250.1
+2018,New Brunswick,Lightning,16.5
+2018,New Brunswick,Unspecified,44.3
+2018,Newfoundland and Labrador,Human activity,355.2
+2018,Newfoundland and Labrador,Lightning,40.3
+2018,Newfoundland and Labrador,Unspecified,0.0
+2018,Northwest Territories,Human activity,169.83
+2018,Northwest Territories,Lightning,22006.91
+2018,Nova Scotia,Human activity,195.520000265
+2018,Nova Scotia,Lightning,1.790000031
+2018,Nova Scotia,Prescribed burn,1.0
+2018,Nova Scotia,Unspecified,0.06
+2018,Ontario,Human activity,15994.230102394
+2018,Ontario,Lightning,249675.600006547
+2018,Ontario,Prescribed burn,7.097
+2018,Ontario,Unspecified,20.299999556
+2018,Prince Edward Island,Human activity,0.0
+2018,Prince Edward Island,Lightning,0.0
+2018,Prince Edward Island,Unspecified,0.0
+2018,Quebec,Human activity,15772.23
+2018,Quebec,Lightning,70488.6
+2018,Quebec,Prescribed burn,55.0
+2018,Quebec,Unspecified,0.5
+2018,Saskatchewan,Human activity,47161.0999999999
+2018,Saskatchewan,Lightning,108915.6
+2018,Saskatchewan,Prescribed burn,36656.2
+2018,Saskatchewan,Unspecified,0.01
+2018,Yukon,Human activity,6487.33
+2018,Yukon,Lightning,74098.16
+2019,Alberta,Human activity,3026.48310000005
+2019,Alberta,Lightning,164061.64
+2019,Alberta,Prescribed burn,141.0
+2019,Alberta,Unspecified,836602.13
+2019,British Columbia,Human activity,4665.847
+2019,British Columbia,Lightning,15584.92
+2019,British Columbia,Prescribed burn,37.5
+2019,British Columbia,Unspecified,1256.097
+2019,Manitoba,Human activity,7939.99001
+2019,Manitoba,Lightning,63324.4
+2019,Manitoba,Prescribed burn,39.4
+2019,Manitoba,Unspecified,33.1
+2019,New Brunswick,Human activity,183.6
+2019,New Brunswick,Lightning,14.1
+2019,New Brunswick,Unspecified,30.1
+2019,Newfoundland and Labrador,Human activity,106.8
+2019,Newfoundland and Labrador,Lightning,209.2
+2019,Northwest Territories,Human activity,4.54
+2019,Northwest Territories,Lightning,105162.63
+2019,Northwest Territories,Unspecified,0.2
+2019,Nova Scotia,Human activity,133.57
+2019,Nova Scotia,Lightning,0.9
+2019,Nova Scotia,Unspecified,2.3
+2019,Ontario,Human activity,16273.9001008511
+2019,Ontario,Lightning,253445.700002395
+2019,Ontario,Prescribed burn,0.84
+2019,Ontario,Unspecified,5.600000007
+2019,Prince Edward Island,Human activity,0.0
+2019,Prince Edward Island,Lightning,0.0
+2019,Prince Edward Island,Unspecified,0.0
+2019,Quebec,Human activity,5087.10000000001
+2019,Quebec,Lightning,4516.9
+2019,Quebec,Prescribed burn,89.41
+2019,Saskatchewan,Human activity,1531.4
+2019,Saskatchewan,Lightning,46622.3
+2019,Saskatchewan,Unspecified,0.0
+2019,Yukon,Human activity,1331.3
+2019,Yukon,Lightning,254735.32
+2020,Alberta,Human activity,2948.86330000001
+2020,Alberta,Lightning,392.91
+2020,Alberta,Prescribed burn,1250.0
+2020,Alberta,Unspecified,206.25
+2020,British Columbia,Human activity,1011.667
+2020,British Columbia,Lightning,11335.709
+2020,British Columbia,Prescribed burn,123.45
+2020,British Columbia,Unspecified,2200.637
+2020,Manitoba,Human activity,34267.61
+2020,Manitoba,Lightning,15035.11
+2020,New Brunswick,Human activity,1223.69999999999
+2020,New Brunswick,Lightning,51.2
+2020,New Brunswick,Unspecified,114.6245
+2020,Newfoundland and Labrador,Human activity,147.61
+2020,Newfoundland and Labrador,Lightning,4185.0
+2020,Newfoundland and Labrador,Unspecified,1.0
+2020,Northwest Territories,Human activity,370.55
+2020,Northwest Territories,Lightning,20768.48
+2020,Nova Scotia,Human activity,677.629758
+2020,Nova Scotia,Lightning,18.364465
+2020,Nova Scotia,Unspecified,0.75
+2020,Ontario,Human activity,985.3001
+2020,Ontario,Lightning,14470.6
+2020,Ontario,Prescribed burn,3.57
+2020,Ontario,Unspecified,24.4102
+2020,Prince Edward Island,Human activity,0.0
+2020,Prince Edward Island,Lightning,0.0
+2020,Prince Edward Island,Unspecified,0.0
+2020,Quebec,Human activity,52089.5009999999
+2020,Quebec,Lightning,7897.104
+2020,Quebec,Prescribed burn,14.5
+2020,Saskatchewan,Human activity,41398.41
+2020,Saskatchewan,Lightning,779.901
+2020,Saskatchewan,Unspecified,773.8
+2020,Yukon,Human activity,11.7
+2020,Yukon,Lightning,3452.22
+2021,Alberta,Human activity,1511.80769999999
+2021,Alberta,Lightning,52474.78
+2021,Alberta,Prescribed burn,296.39
+2021,Alberta,Unspecified,11858.1401
+2021,British Columbia,Human activity,294381.339
+2021,British Columbia,Lightning,570673.305000003
+2021,British Columbia,Unspecified,1313.796
+2021,Manitoba,Human activity,243012.355692597
+2021,Manitoba,Lightning,883671.196198218
+2021,Manitoba,Prescribed burn,40.0
+2021,Manitoba,Unspecified,16038.107078555
+2021,New Brunswick,Human activity,331.9
+2021,New Brunswick,Lightning,29.8
+2021,New Brunswick,Unspecified,18.4
+2021,Newfoundland and Labrador,Human activity,243.702
+2021,Newfoundland and Labrador,Lightning,98.8
+2021,Northwest Territories,Human activity,8.6
+2021,Northwest Territories,Lightning,197479.55
+2021,Northwest Territories,Unspecified,63.4
+2021,Nova Scotia,Human activity,192.482000595
+2021,Nova Scotia,Lightning,4.659999904
+2021,Ontario,Human activity,5535.9
+2021,Ontario,Lightning,779023.7
+2021,Ontario,Prescribed burn,2.25
+2021,Ontario,Unspecified,5.9006
+2021,Prince Edward Island,Human activity,0.0
+2021,Prince Edward Island,Lightning,0.0
+2021,Prince Edward Island,Unspecified,0.0
+2021,Quebec,Human activity,1113.405
+2021,Quebec,Lightning,48370.1
+2021,Quebec,Prescribed burn,220.22
+2021,Quebec,Unspecified,4.0
+2021,Saskatchewan,Human activity,6822.30020000001
+2021,Saskatchewan,Lightning,949453.199999999
+2021,Saskatchewan,Prescribed burn,128.2
+2021,Saskatchewan,Unspecified,0.5
+2021,Yukon,Human activity,23.03
+2021,Yukon,Lightning,14252.19
+2021,Yukon,Unspecified,200.0
+2022,Alberta,Human activity,1061.9995
+2022,Alberta,Natural cause,142592.851
+2022,Alberta,Prescribed burn,6791.23
+2022,Alberta,Unspecified,7101.251
+2022,British Columbia,Human activity,22292.5309999999
+2022,British Columbia,Natural cause,112839.503100002
+2022,British Columbia,Prescribed burn,391.34
+2022,British Columbia,Unspecified,102.032
+2022,Manitoba,Human activity,3809.3
+2022,Manitoba,Natural cause,187968.203
+2022,Manitoba,Prescribed burn,328.6
+2022,Manitoba,Unspecified,0.7
+2022,New Brunswick,Human activity,143.7
+2022,New Brunswick,Natural cause,1.8
+2022,New Brunswick,Unspecified,30.4
+2022,Newfoundland and Labrador,Human activity,0.02
+2022,Newfoundland and Labrador,Natural cause,0.2
+2022,Newfoundland and Labrador,Unspecified,23890.2
+2022,Northwest Territories,Human activity,59.192
+2022,Northwest Territories,Natural cause,603950.04
+2022,Northwest Territories,Unspecified,22.5
+2022,Nova Scotia,Human activity,3357.473
+2022,Nova Scotia,Natural cause,1.02
+2022,Nova Scotia,Unspecified,25.21
+2022,Ontario,Human activity,2288.2003
+2022,Ontario,Natural cause,269.6
+2022,Ontario,Prescribed burn,0.75
+2022,Ontario,Unspecified,67.5
+2022,Prince Edward Island,Human activity,0.0
+2022,Prince Edward Island,Lightning,0.0
+2022,Prince Edward Island,Unspecified,0.0
+2022,Quebec,Human activity,19246.07
+2022,Quebec,Natural cause,10392.5
+2022,Quebec,Prescribed burn,75.7
+2022,Saskatchewan,Human activity,13286.501
+2022,Saskatchewan,Natural cause,252286.301
+2022,Saskatchewan,Prescribed burn,40.0
+2022,Saskatchewan,Unspecified,0.2
+2022,Yukon,Prescribed burn,9.8
+2022,Yukon,Unspecified,170357.47
+2023,Alberta,Unspecified,1951299.0
+2023,British Columbia,Unspecified,2840830.0
+2023,Manitoba,Unspecified,189913.0
+2023,New Brunswick,Unspecified,854.0
+2023,Newfoundland and Labrador,Unspecified,21913.0
+2023,Northwest Territories,Unspecified,4163438.0
+2023,Nova Scotia,Unspecified,25093.0
+2023,Ontario,Unspecified,441474.0
+2023,Parks Canada,Unspecified,1014742.0
+2023,Prince Edward Island,Unspecified,8.0
+2023,Quebec,Unspecified,4322888.0
+2023,Saskatchewan,Unspecified,1850829.0
+2023,Yukon,Unspecified,373920.0
