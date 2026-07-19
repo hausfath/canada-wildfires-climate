@@ -61,8 +61,16 @@ python src/01_fetch_fire_data.py       # area-burned CSVs (needs data/NFDB_point
 python src/02_fetch_era5land_gee.py    # ERA5-Land seasonal climate via GEE (~30 min; project id in script)
 python src/04_analysis.py              # correlations -> outputs/tables/
 python src/05_figures.py               # the 5-chart thread -> outputs/figures/
+python src/09_berkeley_boreal_1850.py  # fire-season warming since 1850 (needs Berkeley Earth nc, see below)
 ```
 (`03` zonal step is folded into `02`/`04`. Map uses `data/processed/large_fires_2015_2024.gpkg`.)
+
+`09` extends the fire-season warming story back to **1850** using Berkeley Earth's 0.25° gridded
+land+ocean monthly anomaly (`Global_TAVG_Gridded_0p25deg.nc`, ~7 GB, download from
+[Berkeley Earth](https://berkeleyearth.org/data/); the script expects it at `../Climate Map/`). It
+reuses this project's MODIS forest ∩ Canadian-province mask, regridded to the Berkeley grid.
+Result: **≈ +2.4 °C** fire-season (May–Sep) warming over Canadian boreal forest since 1850
+(≈ +1.85 °C vs an 1850–1900 baseline); 2023 is the hottest fire season in the 176-year record.
 
 Note for cloners: the large raw inputs (`data/cnfdb/`, `data/era5_rasters/`, and the derived
 `data/processed/*.gpkg` fire polygons) are not tracked in git for size reasons — `01`/`02`
@@ -72,6 +80,8 @@ statistics and most figures reproduce out of the box.
 ## Outputs
 `outputs/figures/1_hero_area_burned.png` · `2_fire_season_weather.png` (Rohde replica, centerpiece) ·
 `3_provincial_relationship.png` · `4_map_decade_active.png` (2015–24 burned + 2026 active fires) ·
-`5_cause_split.png` · `6_fire_season_warming_map.png` (per-gridcell LOWESS warming).
-Shareable page: `outputs/canada_wildfires.html` (self-contained). Tables in `outputs/tables/`;
-literature in `literature/synthesis.md`.
+`5_cause_split.png` · `6_fire_season_warming_map.png` (per-gridcell LOWESS warming, ERA5-Land 1959→2025) ·
+`7_boreal_fireseason_1850.png` (fire-season temperature time series 1850–2025, Berkeley Earth) ·
+`8_boreal_fireseason_warming_map_1850.png` (per-gridcell change 1850→2025).
+Shareable page: `outputs/canada_wildfires.html` (self-contained). Tables in `outputs/tables/`
+(incl. `berkeley_boreal_fireseason_1850_2025.csv`); literature in `literature/synthesis.md`.
